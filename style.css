@@ -2,6 +2,18 @@
   	background-size: cover; 
  
 }
+
+.body_container {
+  background-color: #FEFE9C; 
+  background-size: cover;
+}
+
+.tree_container {
+  display:table; 
+  margin:0 auto;
+
+  }
+
 .paragraph{
   color:#000000;
   font-weight: bold;
